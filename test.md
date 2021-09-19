@@ -1,2 +1,1 @@
-testi
-checkout测试
+测试到远程仓库啦
